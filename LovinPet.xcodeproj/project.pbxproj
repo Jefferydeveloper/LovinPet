@@ -19,6 +19,7 @@
 		982098BD258E588D00BB14A4 /* CreatePetCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982098BC258E588D00BB14A4 /* CreatePetCollectionViewCell.swift */; };
 		982098CF258E69E900BB14A4 /* NewCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982098CE258E69E900BB14A4 /* NewCollectionView.swift */; };
 		982098D3258F553100BB14A4 /* ChangeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 982098D2258F553100BB14A4 /* ChangeCollectionViewCell.swift */; };
+		983B5A13283B5F3F00043C38 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 983B5A12283B5F3F00043C38 /* MapViewController.swift */; };
 		9850345C259430D8005310E0 /* PetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9850345B259430D7005310E0 /* PetViewController.swift */; };
 		98A78E6225A565D4003D23A6 /* ReminderEditedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A78E6125A565D4003D23A6 /* ReminderEditedViewController.swift */; };
 		98A78E8225AC88B4003D23A6 /* DateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A78E8125AC88B4003D23A6 /* DateFormatter.swift */; };
@@ -30,7 +31,7 @@
 		98C446A7257F6D5600C0DC8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98C446A6257F6D5600C0DC8D /* Assets.xcassets */; };
 		98C446AA257F6D5600C0DC8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98C446A8257F6D5600C0DC8D /* LaunchScreen.storyboard */; };
 		98C446BA257F855400C0DC8D /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C446B9257F855400C0DC8D /* LoginViewController.swift */; };
-		98C446BD257F86D700C0DC8D /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C446BC257F86D700C0DC8D /* MapViewController.swift */; };
+		98C446BD257F86D700C0DC8D /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C446BC257F86D700C0DC8D /* ListViewController.swift */; };
 		98C446C0257F87B300C0DC8D /* TabbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98C446BF257F87B300C0DC8D /* TabbarViewController.swift */; };
 		98DE46C6259B318700A0A58F /* CatVideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 98DE46C5259B318700A0A58F /* CatVideo.mp4 */; };
 		98DE4708259D77E000A0A58F /* HospitalTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98DE4707259D77E000A0A58F /* HospitalTableViewCell.swift */; };
@@ -50,6 +51,7 @@
 		982098BC258E588D00BB14A4 /* CreatePetCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePetCollectionViewCell.swift; sourceTree = "<group>"; };
 		982098CE258E69E900BB14A4 /* NewCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewCollectionView.swift; sourceTree = "<group>"; };
 		982098D2258F553100BB14A4 /* ChangeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeCollectionViewCell.swift; sourceTree = "<group>"; };
+		983B5A12283B5F3F00043C38 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		9850345B259430D7005310E0 /* PetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetViewController.swift; sourceTree = "<group>"; };
 		98A78E6125A565D4003D23A6 /* ReminderEditedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderEditedViewController.swift; sourceTree = "<group>"; };
 		98A78E8125AC88B4003D23A6 /* DateFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatter.swift; sourceTree = "<group>"; };
@@ -63,7 +65,7 @@
 		98C446A9257F6D5600C0DC8D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		98C446AB257F6D5600C0DC8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98C446B9257F855400C0DC8D /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		98C446BC257F86D700C0DC8D /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		98C446BC257F86D700C0DC8D /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		98C446BF257F87B300C0DC8D /* TabbarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarViewController.swift; sourceTree = "<group>"; };
 		98DE46C5259B318700A0A58F /* CatVideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = CatVideo.mp4; sourceTree = "<group>"; };
 		98DE4707259D77E000A0A58F /* HospitalTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HospitalTableViewCell.swift; sourceTree = "<group>"; };
@@ -94,6 +96,53 @@
 			name = CollectionView;
 			sourceTree = "<group>";
 		};
+		983B5A0C283B501500043C38 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = ViewModel;
+			sourceTree = "<group>";
+		};
+		983B5A0D283B516600043C38 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		983B5A0E283B517200043C38 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Service;
+			sourceTree = "<group>";
+		};
+		983B5A10283B518600043C38 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				98C446B9257F855400C0DC8D /* LoginViewController.swift */,
+				983B5A12283B5F3F00043C38 /* MapViewController.swift */,
+				98C446BF257F87B300C0DC8D /* TabbarViewController.swift */,
+				9820973A257F971000BB14A4 /* MainViewController.swift */,
+				98209736257F96E800BB14A4 /* RecordViewController.swift */,
+				98C446BC257F86D700C0DC8D /* ListViewController.swift */,
+				98209732257F965500BB14A4 /* SettingViewController.swift */,
+				982097E025848B1C00BB14A4 /* WeightViewController.swift */,
+				9850345B259430D7005310E0 /* PetViewController.swift */,
+				98A78E6125A565D4003D23A6 /* ReminderEditedViewController.swift */,
+			);
+			name = ViewController;
+			sourceTree = "<group>";
+		};
+		983B5A11283B5C3A00043C38 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				98C4469D257F6D5400C0DC8D /* AppDelegate.swift */,
+				98C4469F257F6D5400C0DC8D /* SceneDelegate.swift */,
+			);
+			name = Common;
+			sourceTree = "<group>";
+		};
 		98C44691257F6D5400C0DC8D = {
 			isa = PBXGroup;
 			children = (
@@ -115,14 +164,16 @@
 		98C4469C257F6D5400C0DC8D /* LovinPet */ = {
 			isa = PBXGroup;
 			children = (
-				98C4469D257F6D5400C0DC8D /* AppDelegate.swift */,
-				98C4469F257F6D5400C0DC8D /* SceneDelegate.swift */,
+				983B5A11283B5C3A00043C38 /* Common */,
+				983B5A0C283B501500043C38 /* ViewModel */,
+				983B5A0D283B516600043C38 /* Model */,
+				983B5A0E283B517200043C38 /* Service */,
+				983B5A10283B518600043C38 /* ViewController */,
 				98A78E8125AC88B4003D23A6 /* DateFormatter.swift */,
 				98DE470A259EB4F300A0A58F /* Hospital.swift */,
 				982097692580631E00BB14A4 /* HospitalSource.swift */,
 				9820988A258C8ED300BB14A4 /* PetData.swift */,
 				98DE46C5259B318700A0A58F /* CatVideo.mp4 */,
-				98CDFC7B25CA741400791F78 /* ViewControllers */,
 				98CDFC7D25CA749F00791F78 /* Views */,
 				982098D5258F553D00BB14A4 /* CollectionView */,
 				98C446A3257F6D5400C0DC8D /* Main.storyboard */,
@@ -133,22 +184,6 @@
 				98209890258C912400BB14A4 /* CoreDataHelper.swift */,
 			);
 			path = LovinPet;
-			sourceTree = "<group>";
-		};
-		98CDFC7B25CA741400791F78 /* ViewControllers */ = {
-			isa = PBXGroup;
-			children = (
-				98C446B9257F855400C0DC8D /* LoginViewController.swift */,
-				98C446BF257F87B300C0DC8D /* TabbarViewController.swift */,
-				9820973A257F971000BB14A4 /* MainViewController.swift */,
-				98209736257F96E800BB14A4 /* RecordViewController.swift */,
-				98C446BC257F86D700C0DC8D /* MapViewController.swift */,
-				98209732257F965500BB14A4 /* SettingViewController.swift */,
-				982097E025848B1C00BB14A4 /* WeightViewController.swift */,
-				9850345B259430D7005310E0 /* PetViewController.swift */,
-				98A78E6125A565D4003D23A6 /* ReminderEditedViewController.swift */,
-			);
-			name = ViewControllers;
 			sourceTree = "<group>";
 		};
 		98CDFC7D25CA749F00791F78 /* Views */ = {
@@ -300,6 +335,7 @@
 				98A78E8225AC88B4003D23A6 /* DateFormatter.swift in Sources */,
 				982098CF258E69E900BB14A4 /* NewCollectionView.swift in Sources */,
 				982098D3258F553100BB14A4 /* ChangeCollectionViewCell.swift in Sources */,
+				983B5A13283B5F3F00043C38 /* MapViewController.swift in Sources */,
 				98A78EA825AEBA22003D23A6 /* MainTableViewCell.swift in Sources */,
 				98A78E6225A565D4003D23A6 /* ReminderEditedViewController.swift in Sources */,
 				98C4469E257F6D5400C0DC8D /* AppDelegate.swift in Sources */,
@@ -310,7 +346,7 @@
 				9850345C259430D8005310E0 /* PetViewController.swift in Sources */,
 				982097E125848B1C00BB14A4 /* WeightViewController.swift in Sources */,
 				98C446C0257F87B300C0DC8D /* TabbarViewController.swift in Sources */,
-				98C446BD257F86D700C0DC8D /* MapViewController.swift in Sources */,
+				98C446BD257F86D700C0DC8D /* ListViewController.swift in Sources */,
 				98209733257F965500BB14A4 /* SettingViewController.swift in Sources */,
 				9820976A2580631E00BB14A4 /* HospitalSource.swift in Sources */,
 				9820973B257F971000BB14A4 /* MainViewController.swift in Sources */,
